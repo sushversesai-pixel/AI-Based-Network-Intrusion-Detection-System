@@ -65,7 +65,7 @@ bash
 pip install -r requirements.txt
 Step 5: Required Libraries
 The requirements.txt includes:
-
+```
 Code
 streamlit
 scikit-learn

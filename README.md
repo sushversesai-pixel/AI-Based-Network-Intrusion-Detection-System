@@ -30,9 +30,21 @@ The AI-Based Network Intrusion Detection System (NIDS) leverages machine learnin
 - **Version Control**: Git & GitHub
 
 ## 📁 Project Structure
-
-AI-Based-Network-Intrusion-Detection-System/ ├── nids_main.py # Main application file ├── model.pkl # Trained Random Forest model ├── requirements.txt # Python dependencies ├── data/ # Dataset directory │ ├── training_data.csv # Training dataset │ └── test_data.csv # Test dataset ├── utils/ # Utility functions │ ├── preprocessing.py # Data preprocessing │ └── visualization.py # Visualization functions ├── README.md # Project documentation ├── .gitignore # Git ignore rules └── LICENSE # License information
-
+```
+AI-Based-Network-Intrusion-Detection-System/ 
+├── nids_main.py # Main application file 
+├── model.pkl # Trained Random Forest model 
+├── requirements.txt # Python dependencies 
+├── data/ # Dataset directory │ 
+├── training_data.csv # Training dataset 
+  │ └── test_data.csv # Test dataset 
+├── utils/ # Utility functions 
+  │ ├── preprocessing.py # Data preprocessing 
+  │ └── visualization.py # Visualization functions 
+├── README.md # Project documentation 
+├── .gitignore # Git ignore rules 
+└── LICENSE # License information
+```
 Code
 
 ## 🚀 Installation & Setup
